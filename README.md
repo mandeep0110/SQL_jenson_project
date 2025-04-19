@@ -1,4 +1,4 @@
-# 📊 Jenson USA – SQL Analysis Project (Milestone-2)
+# 📊 Jenson USA – SQL Analysis Project
 
 Hello! I'm Mandeep Kumar, and this is my submission for the **Milestone-2 Project** under WsCube Tech’s Data Analytics Program. In this project, I performed structured SQL analysis for **Jenson USA**, focusing on uncovering insights related to customer behavior, inventory, staff performance, and store operations.
 
